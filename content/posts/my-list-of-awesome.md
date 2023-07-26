@@ -1,7 +1,7 @@
 ---
 title: "My List of Awesome"
 date: 2023-07-26T14:28:54+01:00
-draft: true
+draft: false
 ---
 
 # List of Awesome
